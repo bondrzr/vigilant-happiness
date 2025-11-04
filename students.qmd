@@ -11,3 +11,5 @@ format: html
 - Adriel little baby -> Matei the GOAT
 
 ## AID
+
+- Noé Mansuy
